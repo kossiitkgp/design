@@ -8,7 +8,7 @@ This repository is a collection of all the work of design at KOSS. All the image
 
 ## Logos
 
-![KOSS](https://i.imgur.com/OvFuyiQ.png)
+![KOSS](https://i.imgur.com/WoZmvrA.png)
 
 All different versions of KOSS Logos.
 

@@ -17,9 +17,9 @@
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="logo-square.svg"
-   inkscape:export-filename="/home/xypnox/koss-logo-square.png"
-   inkscape:export-xdpi="768"
-   inkscape:export-ydpi="768">
+   inkscape:export-filename="/home/xypnox/Projects/KOSS/design/logo/exported/koss-logo-square-small.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,15 +28,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="149.76047"
+     inkscape:cx="61.01047"
      inkscape:cy="71.036738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="497"
-     inkscape:window-x="20"
-     inkscape:window-y="538"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:grid-bbox="true"
      inkscape:snap-bbox="true"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
