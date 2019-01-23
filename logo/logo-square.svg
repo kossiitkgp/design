@@ -16,8 +16,8 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="/home/xypnox/koss-logo.png"
+   sodipodi:docname="logo-square.svg"
+   inkscape:export-filename="/home/xypnox/koss-logo-square.png"
    inkscape:export-xdpi="768"
    inkscape:export-ydpi="768">
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="39.352425"
-     inkscape:cy="73.379752"
+     inkscape:zoom="2"
+     inkscape:cx="149.76047"
+     inkscape:cy="71.036738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -108,7 +108,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -123,7 +123,7 @@
        height="128"
        x="7.1054274e-15"
        y="0"
-       ry="19.91111"
+       ry="0"
        inkscape:export-filename="/home/xypnox/koss-sticker.png"
        inkscape:export-xdpi="650.23999"
        inkscape:export-ydpi="650.23999" />
