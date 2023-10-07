@@ -2,5 +2,5 @@
 - [Git and Github Workshop Posters](./git-github/)
 - [KWoC Posters](./kwoc/)
 - [Python Workshop Posters](./python/)
-- [Ubuntu Install Fest Posters](./ubuntu-install/)
+- [Linux Install Fest Posters](./linux-install-fest/)
 - [Miscellaneous Posters](./misc/)
